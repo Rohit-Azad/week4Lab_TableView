@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aussie Info</string>
+    <string name="heading">Click the button below to show Australian States\' data sorted by Admin:</string>
+    <string name="show_data">Show Data</string>
+    <string name="todo">TODO</string>
+    <string name="scroll">Note: You can scroll the table horizontally and vertically. I added all 8 fields from JSON file into the table with 9th being the admin used to group tables</string>
+</resources>
